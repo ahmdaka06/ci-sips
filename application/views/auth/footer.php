@@ -1,4 +1,4 @@
-a<?php
+<?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
     <footer class="py-5">
